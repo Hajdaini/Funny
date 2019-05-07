@@ -1,2 +1,3 @@
 # Funny
-<img src="funny.png">
+
+![funny](funny.png)
